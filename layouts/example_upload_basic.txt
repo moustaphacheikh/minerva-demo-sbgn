@@ -1,0 +1,6 @@
+# VERSION=1.0
+# NAME=Advanced example
+# DESCRIPTION=Advanced example of custom layout
+name	value
+SNCA	-0.5
+PRKN	0.75
